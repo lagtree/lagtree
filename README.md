@@ -1,8 +1,8 @@
 ### Projects
 🎧 - VR Physics Based Locomotion System (Unity/Depricated, Moving to Godot 4)<br>
 🍄 - Mycelium (Exploration Horror Game)<br>
-💻 - zacv.dev (Generators and Tools)<br>
-🌏 - c# shader code integration (For Godot 4's global environment)<br>
+💻 - Zacv.dev (Generators and Tools)<br>
+🌏 - C# shader code integration (For Godot 4's global environment)<br>
 
 ### Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lagtree&theme=github_dark)<br>
