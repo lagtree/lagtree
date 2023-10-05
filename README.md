@@ -11,7 +11,7 @@
 
 GDS (Godot Script) - Mastery ✅<br>
 Javascript - Mastery ✅<br>
-DGSL (Shader Code) - Near Mastery 🟨<br>
+DGSL/.Net/C# (Shader Code using DX12) - Near Mastery 🟨<br>
 Ruby - Near Mastery 🟨<br>
 Python - Near Mastery 🟨<br>
 C# - Near Mastery 🟨<br>
