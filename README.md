@@ -4,6 +4,8 @@
 💻 - Zacv.dev (Generators and Tools)<br>
 🌏 - C# shader code integration (For Godot 4's global environment)<br>
 
+🍄 - Mycorrhizae (Horror Novel about fungi in a forest)<br>
+
 ### Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lagtree&theme=github_dark)<br>
 
